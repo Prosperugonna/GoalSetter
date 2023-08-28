@@ -1,5 +1,4 @@
 #!usr/bon/node
-"""Project  model"""
 const mongoose = require('mongoose');
 
 const projectSchema = new mongoose.Schema({
