@@ -1,5 +1,5 @@
 {
-  "name": "hourglass",
+  "name": "goalsetter",
   "version": "1.0.0",
   "description": "HourGlass App for AlX project",
   "main": "server.js",

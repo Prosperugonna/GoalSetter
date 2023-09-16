@@ -61,7 +61,7 @@ function Login() {
         <h1>
           <FaSignInAlt /> Login
         </h1>
-        <p>Welcome to HourGlass</p>
+        <p>Welcome to GoalSetter</p>
       </section>
 
       <section className='form'>
