@@ -128,4 +128,4 @@ function Register() {
   );
 }
 
-export default Reigister;
+export default Register;
