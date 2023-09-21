@@ -40,6 +40,6 @@ The GoalSetter app is deployed using Heroku, providing a live web application ac
 A combination of unit tests and integration tests, with tools such as Jest, React Testing Library, and Supertest for server-side testing.
 
 
-## Authors
+## Author
 
-1. Ohiri Prosper Ugonna(https://twitter.com/Prosperugonna/)
+Ohiri Prosper Ugonna(https://twitter.com/Prosperugonna/)
